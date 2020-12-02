@@ -1,3 +1,4 @@
-print("test!!!!!!!!")
-print("test2")
-list=[1,2,3,4]
+aa="""
+Life is too short
+You need Python"""
+print(aa)
